@@ -6,11 +6,11 @@ Dokumen HTML pada dasarnya adalah hierarki node, yang mencakup elemen HTML dan n
 
 # Elemen
 
+Elemen dan tag tidak sama persis, meskipun banyak orang menggunakan istilah tersebut secara bergantian. Nama tag adalah konten dalam tanda kurung. Tag tersebut menggunakan tanda kurung. Dalam kasus ini, "h1". "Elemen" adalah tag pembuka dan penutup, dan semua konten di antara tag tersebut, termasuk elemen tersarang.
+
 https://web.dev/static/learn/html/overview/image/the-tags-content-make-10a59ba9efd26_856.png?hl=id
 
-Elemen dan tag tidak sama persis, meskipun banyak orang menggunakan istilah tersebut secara bergantian. Nama tag adalah konten dalam tanda kurung. Tag tersebut menggunakan tanda kurung. Dalam kasus ini, <h1>. "Elemen" adalah tag pembuka dan penutup, dan semua konten di antara tag tersebut, termasuk elemen tersarang.
-
-Spesifikasi untuk setiap elemen mencantumkan apakah tag penutup bersifat wajib atau tidak. "Tidak ada tag yang bisa dihapus" dalam spesifikasi berarti tag pembuka dan tag penutup diperlukan. ([Spesifikasi menyediakan daftar semua tag penutup yang diperlukan](https://html.spec.whatwg.org/multipage/syntax.html#syntax-tag-omission)).
+Spesifikasi untuk setiap elemen mencantumkan apakah tag penutup bersifat wajib atau tidak. "Tidak ada tag yang bisa dihapus" dalam spesifikasi berarti tag pembuka dan tag penutup diperlukan. !([Spesifikasi menyediakan daftar semua tag penutup yang diperlukan](https://html.spec.whatwg.org/multipage/syntax.html#syntax-tag-omission)).
 
 # Atribut
 
