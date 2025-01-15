@@ -1,5 +1,0 @@
-# Struktur dokumen 
-
-Dokumen HTML mencakup deklarasi jenis dokumen dan elemen root <html>. Bertingkat dalam elemen <html> adalah head dokumen dan isi dokumen. Meskipun bagian atas dokumen tidak terlihat oleh pengunjung, pastikan situs Anda berfungsi dengan baik. Halaman ini berisi semua informasi meta, termasuk informasi untuk mesin telusur dan hasil media sosial, ikon untuk tab browser dan pintasan layar utama seluler, serta perilaku dan penyajian konten Anda. Di bagian ini, Anda akan menemukan komponen yang, meskipun tidak terlihat, yang ada di hampir setiap halaman web.
-
-Untuk membuat situs MachineLearningWorkshop.com (MLW), mulailah dengan menyertakan komponen yang harus dianggap penting untuk setiap halaman web: jenis dokumen, bahasa manusia konten, himpunan karakter, dan, tentu saja, judul atau nama situs atau aplikasi.
